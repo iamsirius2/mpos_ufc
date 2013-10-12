@@ -1,0 +1,3 @@
+RedirectMatch 404 /templates(/|$)
+RedirectMatch 404 /include(/|$)
+RedirectMatch 404 /.git(/|$)
